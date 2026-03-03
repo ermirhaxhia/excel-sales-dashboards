@@ -9,7 +9,7 @@
 ### Dashboard — Page 1 · KPIs & Trend Analysis
 ![Dashboard Page 1](images/dash2.png)
 
-### Dashboard — Page 2 · KPIs & Trend Analysis
+### Dashboard — Page 2 · Actual vs Target & Product Return
 ![Dashboard Page 2](images/dash1.png)
 
 ---
