@@ -18,7 +18,7 @@
 
 | File | Description | Download Raw File |
 |------|-------------|--------------|
-| `Marketing___Sales_Dashboards.xlsx` | Main dashboard — Actual vs Target Sales | [](https://github.com/ermirhaxhia/excel-sales-dashboards/raw/main/Sales%20dashboards%20&%20marketing%20insights.xlsx) |
+| `Marketing___Sales_Dashboards.xlsx` | Main dashboard — Actual vs Target Sales | [**Download**](https://github.com/ermirhaxhia/excel-sales-dashboards/raw/main/Sales%20dashboards%20&%20marketing%20insights.xlsx) |
 
 ---
 
