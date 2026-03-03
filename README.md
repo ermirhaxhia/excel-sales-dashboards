@@ -75,3 +75,8 @@
 
 **Ermir Haxhia** — Applied Mathematics · Data Analysis · Programming  
 🌐 [Portfolio](https://ermir-haxhia.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ermir-haxhia-b988212b5) · [GitHub](https://github.com/ermirhaxhia)
+
+
+📁 Files
+File: `Actual_Sales_VS_Target_Dashboard.xlsx` 
+Description: Main dashboard — Actual vs Target Sales & CSAT Analysis.
