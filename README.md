@@ -6,19 +6,19 @@
 
 ## 🖼️ Preview
 
-### Dashboard — Page 1 · Regional & Country Analysis
-![Dashboard Page 1](images/dash1.png)
+### Dashboard — Page 1 · KPIs & Trend Analysis
+![Dashboard Page 1](images/dash2.png)
 
 ### Dashboard — Page 2 · KPIs & Trend Analysis
-![Dashboard Page 2](images/dash2.png)
+![Dashboard Page 2](images/dash1.png)
 
 ---
 
 ## 📁 Files
 
-| File | Description |
-|------|-------------|
-| `Marketing___Sales_Dashboards.xlsx` | Main dashboard — Actual vs Target Sales |
+| File | Description | Download Raw File |
+|------|-------------|--------------|
+| `Marketing___Sales_Dashboards.xlsx` | Main dashboard — Actual vs Target Sales | `https://github.com/ermirhaxhia/excel-sales-dashboards/raw/main/Sales%20dashboards%20&%20marketing%20insights.xlsx` |
 
 ---
 
@@ -54,9 +54,9 @@
 ```
 📗 Workbook
 ├── 📄 Data          ← Raw dataset
-├── 📄 Calculations  ← Intermediate measures
-├── 📄 Dashboard - Pg 1  ← Regional & Brand analysis
-└── 📄 Dashboard - Pg 2  ← KPIs, Trends, Segments
+├── 📄 Calculations  ← Intermediate measures 
+├── 📄 Dashboard - Pg 1  ← KPIs, Trends, Segments
+└── 📄 Dashboard - Pg 2   ← Regional & Brand analysis
 ```
 
 ---
@@ -76,7 +76,3 @@
 **Ermir Haxhia** — Applied Mathematics · Data Analysis · Programming  
 🌐 [Portfolio](https://ermir-haxhia.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ermir-haxhia-b988212b5) · [GitHub](https://github.com/ermirhaxhia)
 
-
-📁 Files
-File: `Actual_Sales_VS_Target_Dashboard.xlsx` 
-Description: Main dashboard — Actual vs Target Sales & CSAT Analysis.
